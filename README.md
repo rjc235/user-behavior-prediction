@@ -24,4 +24,4 @@ Python, Pandas, Scikit-learn, Plotly, GitHub Pages
 
 ## 作者
 
-冉江川（应聘 Python开发工程师 - 预测方向）
+rjc235
